@@ -2,7 +2,7 @@
 	"name" : "Tesser_cue",
 	"version" : 1,
 	"creationdate" : 3713282595,
-	"modificationdate" : 3713282795,
+	"modificationdate" : 3720099351,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -29,102 +29,52 @@
 		"media" : 		{
 			"Zahlen_0.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Music/Ableton/User Library/M4L/Tesser/clips/Zahlen",
-					"projectrelativepath" : "../../../../../../Music/Ableton/User Library/M4L/Tesser/clips/Zahlen"
-				}
-
+				"local" : 1
 			}
 ,
 			"Zahlen_1.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Music/Ableton/User Library/M4L/Tesser/clips/Zahlen",
-					"projectrelativepath" : "../../../../../../Music/Ableton/User Library/M4L/Tesser/clips/Zahlen"
-				}
-
+				"local" : 1
 			}
 ,
 			"Zahlen_2.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Music/Ableton/User Library/M4L/Tesser/clips/Zahlen",
-					"projectrelativepath" : "../../../../../../Music/Ableton/User Library/M4L/Tesser/clips/Zahlen"
-				}
-
+				"local" : 1
 			}
 ,
 			"Zahlen_3.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Music/Ableton/User Library/M4L/Tesser/clips/Zahlen",
-					"projectrelativepath" : "../../../../../../Music/Ableton/User Library/M4L/Tesser/clips/Zahlen"
-				}
-
+				"local" : 1
 			}
 ,
 			"Zahlen_4.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Music/Ableton/User Library/M4L/Tesser/clips/Zahlen",
-					"projectrelativepath" : "../../../../../../Music/Ableton/User Library/M4L/Tesser/clips/Zahlen"
-				}
-
+				"local" : 1
 			}
 ,
 			"Zahlen_9.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/Max 8/Projects/[TesserAkt]/Tesser_cue/Tesser_cue",
-					"projectrelativepath" : "."
-				}
-
+				"local" : 1
 			}
 ,
 			"Zahlen_8.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/Max 8/Projects/[TesserAkt]/Tesser_cue/Tesser_cue",
-					"projectrelativepath" : "."
-				}
-
+				"local" : 1
 			}
 ,
 			"Zahlen_7.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/Max 8/Projects/[TesserAkt]/Tesser_cue/Tesser_cue",
-					"projectrelativepath" : "."
-				}
-
+				"local" : 1
 			}
 ,
 			"Zahlen_6.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/Max 8/Projects/[TesserAkt]/Tesser_cue/Tesser_cue",
-					"projectrelativepath" : "."
-				}
-
+				"local" : 1
 			}
 ,
 			"Zahlen_5.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/Max 8/Projects/[TesserAkt]/Tesser_cue/Tesser_cue",
-					"projectrelativepath" : "."
-				}
-
+				"local" : 1
 			}
 
 		}
@@ -140,7 +90,7 @@
 	}
 ,
 	"detailsvisible" : 0,
-	"amxdtype" : 1835887981,
+	"amxdtype" : 1768515945,
 	"readonly" : 0,
 	"devpathtype" : 0,
 	"devpath" : ".",
