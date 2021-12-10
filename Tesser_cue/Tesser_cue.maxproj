@@ -2,7 +2,7 @@
 	"name" : "Tesser_cue",
 	"version" : 1,
 	"creationdate" : 3713282595,
-	"modificationdate" : 3720099351,
+	"modificationdate" : 3721477093,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -73,6 +73,11 @@
 			}
 ,
 			"Zahlen_5.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"countdown.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
