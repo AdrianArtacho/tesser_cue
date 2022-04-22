@@ -2,22 +2,19 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 ![TTESS:Logo](https://bitbucket.org/AdrianArtacho/tesserakt/raw/HEAD/TESSER_logo.png)
 
+# Tesser_cue
 
-# Tesser_cue #
+![TESS:cue](https://docs.google.com/drawings/d/e/2PACX-1vRm7ZSCvcssueyEc5x_tdmCXxJQ26nX1xYAcTgWdbYkkm3BFB2rSrnDfRXipPjps9rk_xWbYKgiPPoX/pub?w=753&h=205)
 
-
-### What is this repository for? ###
+### Usage
 
 * Quick summary
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+____
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+# To-Do
 
+* Documentation
+* 
