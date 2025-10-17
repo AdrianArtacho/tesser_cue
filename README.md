@@ -4,7 +4,7 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 # Tesser_cue
 
-![TESS:cue](https://docs.google.com/drawings/d/e/2PACX-1vRm7ZSCvcssueyEc5x_tdmCXxJQ26nX1xYAcTgWdbYkkm3BFB2rSrnDfRXipPjps9rk_xWbYKgiPPoX/pub?w=753&h=205)
+![TESS:cue](img/gui.png)
 
 ### Usage
 
